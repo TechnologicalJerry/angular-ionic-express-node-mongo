@@ -1,0 +1,7 @@
+{
+  "name": "angular-ionic-express-node-mongo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
