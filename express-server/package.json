@@ -1,0 +1,39 @@
+{
+  "name": "angular-ionic-express-node-mongo",
+  "version": "1.0.0",
+  "description": "A full-stack application built with Angular and Ionic for the frontend and Express with Node.js and MongoDB for the backend.",
+  "keywords": [
+    "angular",
+    "ionic",
+    "express",
+    "nodejs",
+    "mongodb",
+    "mongoose",
+    "fullstack",
+    "hybrid-app",
+    "rest-api",
+    "backend",
+    "frontend",
+    "mobile-app",
+    "pwa",
+    "typescript",
+    "javascript",
+    "capacitor",
+    "api"
+  ],
+  "homepage": "https://github.com/TechnologicalJerry/angular-ionic-express-node-mongo#readme",
+  "bugs": {
+    "url": "https://github.com/TechnologicalJerry/angular-ionic-express-node-mongo/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TechnologicalJerry/angular-ionic-express-node-mongo.git"
+  },
+  "license": "MIT",
+  "author": "technojerry",
+  "type": "commonjs",
+  "main": "server.ts",
+  "scripts": {
+    "test": "jest"
+  }
+}
